@@ -1,5 +1,0 @@
-# Copiar a terraform.tfvars y llenar valores reales
-# terraform.tfvars está en .gitignore — nunca se sube al repo
-
-tailscale_auth_key = "tskey-auth-xxxxx"
-ssh_public_key     = "ssh-rsa AAAA... user@host"
