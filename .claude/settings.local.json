@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(echo \"AWS_PROFILE=$AWS_PROFILE\")",
+      "Read(//Users/gerardoarguetabermudez/.aws/**)",
+      "Bash(env:*)",
+      "Bash(echo exit: $?:*)"
+    ]
+  }
+}

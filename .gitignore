@@ -4,3 +4,5 @@ terraform.tfvars
 .terraform/
 .terraform.lock.hcl
 .env
+.claude/settings-local.json
+lambda_function.zip
